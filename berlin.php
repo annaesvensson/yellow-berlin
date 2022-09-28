@@ -1,5 +1,5 @@
 <?php
-// Berlin extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/berlin
+// Berlin extension, https://github.com/annaesvensson/yellow-berlin
 
 class YellowBerlin {
     const VERSION = "0.8.13";
