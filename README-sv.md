@@ -10,8 +10,6 @@ Berlin är ett tema inspirerat av Dieter Rams.
 
 Alla temafiler finns i `system/themes` mappen. Alla layoutfiler finns i `system/layouts` mappen. Du kan redigera dessa filer. Dina ändringar kommer inte att skrivas över när webbplatsen uppdateras.
 
-## Inställningar
-
 Standardtemat definieras i filen `system/extensions/yellow-system.ini`. Ett annat tema kan definieras i [sidinställningarna](https://github.com/annaesvensson/yellow-core/tree/main/README-sv.md#inställningar-page) högst upp på varje sida, till exempel `Theme: berlin`. 
 
 ## Installation
