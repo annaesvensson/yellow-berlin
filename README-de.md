@@ -2,15 +2,15 @@
 
 # Berlin 0.8.14
 
-Berlin ist ein Thema inspiriert von Dieter Rams.
+Berlin ist ein Theme inspiriert von Dieter Rams.
 
 <p align="center"><img src="berlin-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 
-## Wie man ein Thema anpasst
+## Wie man ein Theme anpasst
 
-Alle Themendateien befinden sich im `system/themes`-Verzeichnis. Alle Layoutdateien befinden sich im `system/layouts`-Verzeichnis. Du kannst diese Dateien bearbeiten. Deine Änderungen werden bei der Aktualisierung der Webseite nicht überschrieben.
+Alle Themedateien befinden sich im `system/themes`-Verzeichnis. Alle Layoutdateien befinden sich im `system/layouts`-Verzeichnis. Du kannst diese Dateien bearbeiten. Deine Änderungen werden bei der Aktualisierung der Webseite nicht überschrieben.
 
-Das Standardthema wird in der Datei `system/extensions/yellow-system.ini` festgelegt. Ein anderes Thema lässt sich in den [Seiteneinstellungen](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md#einstellungen-seite) ganz oben auf jeder Seite festlegen, zum Beispiel `Theme: berlin`. [Weitere Informationen zu Themen](https://datenstrom.se/de/yellow/help/how-to-customise-a-theme).
+Das Standardtheme wird in der Datei `system/extensions/yellow-system.ini` festgelegt. Ein anderes Theme lässt sich in den [Seiteneinstellungen](https://github.com/annaesvensson/yellow-core/tree/main/README-de.md#einstellungen-seite) ganz oben auf jeder Seite festlegen, zum Beispiel `Theme: berlin`. [Weitere Informationen zu Themes](https://datenstrom.se/de/yellow/help/how-to-customise-a-theme).
 
 ## Installation
 
