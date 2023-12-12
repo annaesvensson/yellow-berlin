@@ -4,7 +4,7 @@
 
 Berlin is a theme inspired by Dieter Rams.
 
-<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
 ## How to install an extension
 
