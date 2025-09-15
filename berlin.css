@@ -5,9 +5,8 @@
 :root {
     --bg: #fff;
     --code-bg: #f2f2f2;
-    --notice1-bg: #fffbf0;
-    --notice2-bg: #fdf0f0;
-    --notice3-bg: #f0f8fe;
+    --important-bg: #f0f8fe;
+    --note-bg: #fffbf0;
     --header-bg: #000;
     --header-link: #fff;
     --header-link-active: #bbb;
@@ -163,25 +162,16 @@ a:hover {
     padding-left: 1em;
     border-left: 1px solid var(--blockquote-accent);
 }
-.content .notice1 {
+.content .important {
     margin: 1em 0;
     padding: 10px 1em;
-    background-color: var(--notice1-bg);
+    background-color: var(--important-bg);
     border-radius: 3px;
 }
-.content .notice2 {
+.content .note {
     margin: 1em 0;
     padding: 10px 1em;
-    background-color: var(--notice2-bg);
-    border-radius: 3px;
-}
-.content .notice3,
-.content .notice4,
-.content .notice5,
-.content .notice6 {
-    margin: 1em 0;
-    padding: 10px 1em;
-    background-color: var(--notice3-bg);
+    background-color: var(--note-bg);
     border-radius: 3px;
 }
 .content .flexible {
