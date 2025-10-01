@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Berlin 0.9.3
+# Berlin 0.9.5
 
 Berlin är ett tema inspirerat av Dieter Rams.
 
