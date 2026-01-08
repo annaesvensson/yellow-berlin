@@ -4,7 +4,7 @@
 
 Berlin är ett tema inspirerat av Dieter Rams.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Skärmdump"></p>
+<p align="center"><img src="screenshot.png" alt="Skärmdump"></p>
 
 ## Hur man installerar ett tillägg
 
