@@ -1,4 +1,4 @@
-# Berlin 0.9.5
+# Berlin 0.9.6
 
 Berlin is a theme inspired by Dieter Rams. Designed by Anna Svensson.
 
