@@ -161,12 +161,29 @@ a:hover {
     padding-left: 1em;
     border-left: 1px solid var(--blockquote-accent);
 }
+.content details {
+    border-bottom: 1px solid var(--separator);
+}
 .content details summary {
-    margin: inherit;
+    padding: 0.5em;
+    padding-left: 0;
+    font-weight: inherit;
+    list-style: none;
+    position: relative;
+    outline: none;
     cursor: pointer;
 }
-.content details > * {
-    margin: 1em 0 1em 1em;
+.content details summary::after {
+    content: "＋";
+    font-weight: bold;
+    position: absolute;
+    right: 0.1em;
+}
+.content details[open] summary::after {
+    content: "－";
+}
+.content summary::-webkit-details-marker {
+    display: none;
 }
 .content .important {
     margin: 1em 0;
