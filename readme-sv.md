@@ -1,4 +1,4 @@
-# Berlin 0.9.7
+# Berlin 1.0.1
 
 Berlin är ett tema inspirerat av Dieter Rams. Designad av Anna Svensson.
 
