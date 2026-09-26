@@ -2,7 +2,7 @@
 // Berlin extension, https://github.com/annaesvensson/yellow-berlin
 
 class YellowBerlin {
-    const VERSION = "1.0.1";
+    const VERSION = "1.0.2";
     public $yellow;         // access to API
     
     // Handle initialisation
